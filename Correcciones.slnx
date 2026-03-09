@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Correciones Tres/Correciones Tres.csproj" />
+  <Project Path="CorrecionesDos/CorrecionesDos.csproj" />
+  <Project Path="CorrecionesUno/CorrecionesUno.csproj" />
+</Solution>
